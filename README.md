@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/khan1424/profile-assets/main/banner.png" width="100%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/khan1424/profile-assets/main/banner-header.png" width="100%" /></p>
 
 <div align="center">
   <h3> 👨‍💻 Full Stack Developer | 🤖 AI Solutions Architect </h3>
