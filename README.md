@@ -1,8 +1,7 @@
+<p align="center"><img src="https://raw.githubusercontent.com/khan1424/profile-assets/main/banner.png" width="100%" /></p>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khan1424/profile-assets/main/banner.png" width="100%" />
-
   <h3> 👨‍💻 Full Stack Developer | 🤖 AI Solutions Architect </h3>
-
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Building+Intelligent+Web+Apps;Crafting+Native+Android+Experiences;Architecting+AI+Solutions;Full-Stack+Engineering" alt="Typing SVG" />
   </p>
