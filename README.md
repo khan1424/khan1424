@@ -57,8 +57,8 @@
 ### 🌎 Let's Connect
 
 - **[LinkedIn](https://linkedin.com/in/khan1424)**
-- **[Portfolio](https://khanzaid.com)**
-- **[Email](mailto:khanzaid@example.com)**
+- **[Portfolio](https:)**
+- **[Email](mailto:)**
 
 ---
 
